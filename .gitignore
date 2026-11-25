@@ -136,3 +136,14 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+results/
+config/
+robot_config.yaml
+robot_config.yaml.meta
+.vscode/
+Assets/IA_Models/
+Assets/IA_Models.meta
+Assets/ML-Agents/
+Assets/ML-Agents.meta
+Assets/config.meta
